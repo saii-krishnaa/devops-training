@@ -1,2 +1,2 @@
 # devops-training
-training
+devops tutorial
